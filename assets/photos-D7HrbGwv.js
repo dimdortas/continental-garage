@@ -1,0 +1,1 @@
+function n(){document.querySelectorAll(".photo[data-photo]").forEach(t=>{const a=`/assets/photos/${t.dataset.photo}.jpg`,o=new Image;o.loading="lazy",o.onload=()=>{t.style.backgroundImage=`url("${a}")`,t.classList.add("has-photo")},o.onerror=()=>{},o.src=a})}export{n as initPhotos};

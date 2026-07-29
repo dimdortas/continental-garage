@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Script "G" monogram — placeholder. Swap with official /assets/logos PNG when supplied. -->
+  <g stroke="#111110" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 34 C66 22 54 16 42 18 C27 20 18 33 19 49 C20 65 32 76 47 74 C60 72 68 61 67 49 L48 51" />
+    <path d="M70 30 C74 33 76 38 76 44" opacity="0.9" />
+  </g>
+</svg>
