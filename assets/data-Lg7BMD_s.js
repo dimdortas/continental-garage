@@ -1,1 +1,0 @@
-const t={1:"①",2:"②",3:"③",4:"④",5:"⑤",6:"⑥",7:"⑦"},i=[{city:"ROME",time:"1h45"},{city:"ISTANBUL",time:"1h15"},{city:"TEL AVIV",time:"2h"},{city:"DUBAI",time:"4h"},{city:"LONDON",time:"3h30"}];export{t as C,i as D};
