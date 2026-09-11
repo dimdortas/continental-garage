@@ -1,4 +1,4 @@
-import{S as a,g as o}from"./gsap-CiEuWA-R.js";import{$ as s,a as n,p as i}from"./index-DTIxrph8.js";const d=`
+import{S as a,g as o}from"./gsap-CiEuWA-R.js";import{$ as s,a as n,p as i}from"./index-s-M98qrh.js";const d=`
 <svg viewBox="0 0 400 500" fill="none" stroke="var(--ink)" stroke-width="1.4"
      stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
   <!-- horizon + hills -->
